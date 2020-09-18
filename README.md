@@ -15,9 +15,9 @@ En esta plataforma voy a organizar mis apuntes de forma pública.
 
 ### NUNCA SE COMPARTIRÁN EJERCICIOS EVALUABLES.
 
-A medida que avance el curso puede que la forma en la que tomo apuntes cambie.
-La idea sería anotar sobre las diapositivas y subir mis anotaciones (PDF).
-A partir de esto realizaría un documento (LaTeX) con los contenidos que yo voy a estudiar ya sintetizados.
-
-Si algún otro alumno usa estos documentos, debe comprender que no sustituyen a las clases. 
-(Mis apuntes no están afiliados a la Universidad de Murcia)
+A medida que avance el curso puede que la forma en la que tomo apuntes cambie.<br />
+La idea sería anotar sobre las diapositivas y subir mis anotaciones (PDF).<br />
+A partir de esto realizaría un documento (LaTeX) con los contenidos que yo voy a estudiar ya sintetizados.<br />
+<br />
+Si algún otro alumno usa estos documentos, debe comprender que no sustituyen a las clases. <br />
+(Mis apuntes no están afiliados a la Universidad de Murcia).<br />
