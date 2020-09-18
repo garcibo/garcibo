@@ -3,13 +3,13 @@
 # Estudiante de Ingeniería Informática en la Universidad de Murcia. 
  Actualmente estoy cursando:
 
-- [Arquitectura de Redes](garcibo/AR/README.md)
-- Arquitectura y Organización de Computadores
-- Ampliación de Sistemas Operativos.
+- [Arquitectura de Redes.](https://github.com/garcibo/AR.git)
+- [Arquitectura y Organización de Computadores.](https://github.com/garcibo/AOC.git)
+- [Ampliación de Sistemas Operativos.](https://github.com/garcibo/ASO.git)
 
-- Aprendizaje Computacional.
-- Desarollo de Sistemas Inteligentes.
-- Compresión Multimedia. 
+- [Aprendizaje Computacional.](https://github.com/garcibo/AComp.git)
+- [Compresión Multimedia.](https://github.com/garcibo/CMul.git)
+- [Desarollo de Sistemas Inteligentes.](https://github.com/garcibo/DSint.git)
 
 En esta plataforma voy a organizar mis apuntes y ejercicios de forma pública.
 
