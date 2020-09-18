@@ -1,6 +1,6 @@
 ### Pablo García-Borrón Jiménez Cervantes.
 
-# Estudiante de Ingeniería Informática en la Universidad de Murcia. 
+**Estudiante de Ingeniería Informática en la Universidad de Murcia.** <br />
  Actualmente estoy cursando:
 
 - [Arquitectura de Redes.](https://github.com/garcibo/AR.git)
