@@ -3,7 +3,7 @@
 # Estudiante de Ingeniería Informática en la Universidad de Murcia. 
  Actualmente estoy cursando:
 
-- Arquitectura de Redes.
+- [Arquitectura de Redes](garcibo/AR/README.md)
 - Arquitectura y Organización de Computadores
 - Ampliación de Sistemas Operativos.
 
