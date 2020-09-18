@@ -13,8 +13,6 @@
 
 En esta plataforma voy a organizar mis apuntes y ejercicios de forma pública.
 
-Puede que se compartan anotaciones de las clases prácticas pero, 
-
 ### NUNCA SE COMPARTIRÁN EJERCICIOS EVALUABLES.
 
 A medida que avance el curso puede que la forma en la que tomo apuntes cambie.
