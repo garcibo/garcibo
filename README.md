@@ -11,7 +11,7 @@
 - [Compresión Multimedia.](https://github.com/garcibo/CMul.git)
 - [Desarollo de Sistemas Inteligentes.](https://github.com/garcibo/DSint.git)
 
-En esta plataforma voy a organizar mis apuntes y ejercicios de forma pública.
+En esta plataforma voy a organizar mis apuntes de forma pública.
 
 ### NUNCA SE COMPARTIRÁN EJERCICIOS EVALUABLES.
 
