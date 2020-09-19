@@ -26,4 +26,4 @@ Si algún otro alumno usa estos documentos, debe comprender que no sustituyen a 
 
 
 Proyectos personales:
-- [FutStats.](https://github.com/garcibo/FutStats.git)
+- [FutStats (10/2019).](https://github.com/garcibo/FutStats.git)
