@@ -21,3 +21,9 @@ A partir de esto realizaría un documento (LaTeX) con los contenidos que yo voy 
 <br />
 Si algún otro alumno usa estos documentos, debe comprender que no sustituyen a las clases. <br />
 (Mis apuntes no están afiliados a la Universidad de Murcia).<br />
+
+
+
+
+Proyectos personales:
+- [FutStats.](https://github.com/garcibo/FutStats.git)
