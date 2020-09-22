@@ -11,17 +11,13 @@
 - [Compresión Multimedia.](https://github.com/garcibo/CMul.git)
 - [Desarollo de Sistemas Inteligentes.](https://github.com/garcibo/DSint.git)
 
-En esta plataforma voy a organizar mis apuntes de forma pública.
+En esta plataforma voy a organizar mis apuntes de forma pública.<br />
+Intentaré realizar un documento Markdown con los contenidos de cada sesión de teoría.<br />
 
 ### NUNCA SE COMPARTIRÁN EJERCICIOS EVALUABLES.
 
-A medida que avance el curso puede que la forma en la que tomo apuntes cambie.<br />
-La idea sería anotar sobre las diapositivas y subir mis anotaciones (PDF).<br />
-A partir de esto realizaría un documento (LaTeX) con los contenidos que yo voy a estudiar ya sintetizados.<br />
-<br />
 Si algún otro alumno usa estos documentos, debe comprender que no sustituyen a las clases. <br />
 (Mis apuntes no están afiliados a la Universidad de Murcia).<br />
-
 
 
 
