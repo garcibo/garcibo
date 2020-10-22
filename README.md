@@ -17,7 +17,5 @@ Los repositorios contienen mis apuntes y proyectos, estos estarán privados, cam
 - [Fundamentos Computacionales de los Videojuegos.](https://github.com/garcibo/FCV.git)
 
 
-Intentaré realizar un documento Markdown con los contenidos de cada sesión de teoría.<br />
-
 Proyectos personales:
 - [FutStats (10/2019).](https://github.com/garcibo/FutStats.git)
