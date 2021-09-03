@@ -1,7 +1,5 @@
-# Pablo García-Borrón Jiménez Cervantes
 
 ### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Esta plataforma la voy a utilizar a modo de portfolio! 
 
 Soy un estudiante de **Ingeniería Informática** de la Universidad de Murcia a falta de realizar mi Trabajo de Fin de Grado. 
 
