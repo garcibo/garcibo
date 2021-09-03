@@ -1,7 +1,7 @@
 # Pablo García-Borrón Jiménez Cervantes.
 
-## Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Esta plataforma la voy a utilizar a modo de portfolio.! 
+### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Esta plataforma la voy a utilizar a modo de portfolio! 
 
 <br />
 
