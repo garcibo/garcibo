@@ -10,7 +10,6 @@ En la UM realicé mi **especialización en Computación**. Me apasiona la Inteli
 
 Actualmente estoy realizando el siguiente curso: [Certificado profesional de Ciencia de datos de IBM](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-<br />
 
 ### Proyectos universitarios y personales:
 
