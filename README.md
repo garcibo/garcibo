@@ -15,7 +15,7 @@ Actualmente estoy realizando el siguiente curso: [Certificado profesional de Cie
 
 | Proyecto                                   | Lenguaje                | Tipo          | Fecha | Enlace |
 |--------------------------------------------|-------------------------|---------------|-------|--------|
-| Control de interfaces a base de gestos \[WIP\].    | Angular + Tensorflow.JS | Personal      | 08/21 |  [Link](https://github.com/garcibo/ControladorAparcamientoFuzzyLogic.git)        |
+| Control de interfaces a base de gestos \[WIP\].    | Angular + Tensorflow.JS | Personal      | 08/21 |  [Link](https://github.com/garcibo/AngularGestureControl)        |
 | CV y Carta de presentación                 | LATEX                   | Personal      | 07/21 |  [Link](https://github.com/garcibo/ControladorAparcamientoFuzzyLogic.git)       |
 | Videojuego con tecnologías de IA           | Unity y C#              | Universitario | 06/21 |  [Link](https://github.com/garcibo/ControladorAparcamientoFuzzyLogic.git)      |
 | Script de detección de numeros manuscritos | R y Markdown            | Universitario | 01/21 |  [Link](https://github.com/garcibo/ControladorAparcamientoFuzzyLogic.git)      |
