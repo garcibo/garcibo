@@ -1,8 +1,9 @@
-### Pablo García-Borrón Jiménez Cervantes.
+# Pablo García-Borrón Jiménez Cervantes.
 
-**Estudiante de Ingeniería Informática en la Universidad de Murcia.** <br />
+## Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Esta plataforma la voy a utilizar a modo de portfolio.! 
 
-Esta plataforma la voy a utilizar a modo de portfolio.<br />
+<br />
 
 Proyectos:
 - Demo: Control de interfaces a base de gestos.
