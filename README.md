@@ -1,7 +1,7 @@
 
 ### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Soy un estudiante de **Ingeniería Informática** de la Universidad de Murcia a falta de realizar mi Trabajo de Fin de Grado. 
+Soy graduado en **Ingeniería Informática** de la Universidad de Murcia (a falta de realizar mi Trabajo de Fin de Grado). 
 
 Me podeis encontrar en [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://es.linkedin.com/in/pablo-garcía-borrón-jiménez-cervantes-027a76a3)
 &nbsp;
