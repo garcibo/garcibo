@@ -13,8 +13,7 @@ En la UM realicé mi **especialización en Computación**. Me apasiona la Inteli
 
 | Proyecto                                   | Lenguaje                | Tipo          | Fecha | Enlace |
 |--------------------------------------------|-------------------------|---------------|-------|--------|
-| Control de interfaces a base de gestos \[WIP\].    | Angular + Tensorflow.JS | Personal      | 08/21 |  [Link](https://github.com/garcibo/gestos-app)        |
-| CV y Carta de presentación                 | LATEX                   | Personal      | 07/21 |  [Link](https://github.com/garcibo/CV-y-CoverLetter)       |
+| Control de interfaces a base de gestos.    | Angular + Tensorflow.JS | Personal      | 08/21 |  [Link](https://github.com/garcibo/gestos-app)        |
 | Script de detección de numeros manuscritos | R y Markdown            | Universitario | 01/21 |  [Link](https://github.com/garcibo/Detecci-nDigitosManuscritos)      |
 | Compresor JPG                              | Matlab                  | Universitario | 01/21 |  [Link](https://github.com/garcibo/CompresorJPEG)       |
 | Controlador de Aparcamiento Automático     | Java + FuzzyLogic       | Universitario | 12/20 |  [Link](https://github.com/garcibo/ControladorAparcamientoFuzzyLogic.git)      |
