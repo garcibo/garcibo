@@ -8,8 +8,6 @@ Me podeis encontrar en [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedI
 
 En la UM realicé mi **especialización en Computación**. Me apasiona la Inteligencia Artificial y el Machine Learning.
 
-Actualmente estoy realizando el siguiente curso: [Certificado profesional de Ciencia de datos de IBM](https://www.coursera.org/professional-certificates/ibm-data-science)
-
 
 ### Proyectos universitarios y personales:
 
